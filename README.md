@@ -27,3 +27,27 @@ top right down arrow on storyboard screen
 Where is the icon for the project navigator and where is it located?
 folder on the top left, organises your folders 
 ```
+How do you create a class - key word/casing/brackets?
+
+
+What is the difference between a variable and a constant?
+
+
+What must you do after creating a variable?
+
+
+What does the word 'string' mean?
+
+
+What key work (abreviation) is used to create a function?
+
+
+What symbol means 'is of type'?
+
+
+What does 'Int' mean?
+
+
+How do you print out a variable or function in the debug area?
+
+
