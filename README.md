@@ -31,7 +31,7 @@ How do you create a class - key word/casing/brackets?
 
 
 What is the difference between a variable and a constant?
-
+variable changes constant stays the same 
 
 What must you do after creating a variable?
 
